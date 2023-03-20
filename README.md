@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @roy-corentin
+- 👋 Hi, I'm @roy-corentin
 - 👀 I'm interested in algorithms, optimization and code improvement
-- 🌱 I'm currently learning to write better code architecture
-- 💞️ I’m looking to collaborate on IOT
+- 🌱 I'm learning how to write better code architecture
+- 💞️ I'm looking to collaborate on IOT and new technologies
 - 📫 How to reach me corentin.roy02@laposte.net
 
 <!---
