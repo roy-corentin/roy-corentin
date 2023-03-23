@@ -4,7 +4,7 @@
 - 💞️ I'm looking to collaborate on IOT and new technologies
 - 📫 How to reach me corentin.roy02@laposte.net
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=roy-corentin&rank=-C,-B,-UNKNOWN)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=roy-corentin&rank=S,AAA,AA)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!---
 roy-corentin/roy-corentin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
