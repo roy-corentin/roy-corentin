@@ -15,6 +15,7 @@
 📧 If you have any questions or just want to chat about programming, you can always reach me at corentin.roy02@laposte.net. Don't hesitate to drop me a line!
 
 Thanks for stopping by, and happy coding!
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=roy-corentin&rank=S,AAA,AA,SECRET)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!---
