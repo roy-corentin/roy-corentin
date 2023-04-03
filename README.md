@@ -16,6 +16,8 @@
 
 Thanks for stopping by, and happy coding!
 
+**I am currently working as freelance web developer, feel free to contact me** 😉
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=roy-corentin&rank=S,AAA,AA,SECRET)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!---
