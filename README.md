@@ -12,11 +12,13 @@
 
 🌎 A portfolio to present some of the projects I worked on.
 
-📧 If you have any questions or just want to chat about programming, you can always reach me at corentin.roy02@laposte.net. Don't hesitate to drop me a line!
+📧 If you have any questions or just want to chat about programming, you can always reach me at <a href="mailto:corentin.roy02@laposte.net?subject=Business&&body=You are so great !" target="_blank"> corentin.roy02@laposte.net</a>. Don't hesitate to drop me a line!
 
 Thanks for stopping by, and happy coding!
 
 **I am currently working as freelance web developer, feel free to contact me** 😉
+
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=roy-corentin&rank=S,AAA,AA,SECRET)](https://github.com/ryo-ma/github-profile-trophy)
 
