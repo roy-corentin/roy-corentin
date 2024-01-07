@@ -1,26 +1,14 @@
-👋 Hello there!
+👋 Hey there, code wanderer!
 
-👨‍💻 I'm a junior developer and Epitech student with a passion for coding in a variety of languages. I have extensive knowledge of languages such as C, C++, and Python that I've learned during my time at Epitech. In addition to those, I've also worked on internship and personal projects that allowed me to explore languages such as Ruby, Crystal, and JavaScript/TypeScript for React.
+👨‍💻 I'm always tinkering and experimenting in the realms of C++, C, Ruby, Crystal, Elixir, Python, etc... I adore unraveling the mysteries of these languages, constantly honing my skills to conjure wonders.
 
-📚 Here are a few things you'll find on my GitHub profile:
+🧠 Delve into my realm to uncover the secrets of my Emacs configuration and dotfiles. It's a playground of efficiency and power, evolving as I weave new enchantments.
 
-🔍 Projects that showcase my love for algorithms and optimization in C++. You'll find lots of code examples that demonstrate my ability to make things run fast and efficiently in this language.
+📧 Questions, curious musings, or geeky discussions? Ping me at <a href="mailto:corentin.roy02@laposte.net?subject=Coding+Wonders&&body=Let's+talk+code+magic!" target="_blank">corentin.roy02@laposte.net</a>. Let's weave some code magic together!
 
-💎 Ruby and Crystal projects that highlight my expertise in these programming languages. I love working with Ruby and Crystal and enjoy exploring all the amazing things you can do with them!
+P.S. I'm currently brewing magic as a freelance developer. Want to craft something extraordinary? Reach out, and let's make it happen! 😉✨
 
-🧠 An Emacs configuration that showcases my love for this powerful text editor. As a fan of Emacs, I've spent a lot of time customizing it to suit my needs, and I'm always looking for new ways to make it even more efficient and useful.
-
-🌎 A portfolio to present some of the projects I worked on.
-
-📧 If you have any questions or just want to chat about programming, you can always reach me at <a href="mailto:corentin.roy02@laposte.net?subject=Business&&body=You are so great !" target="_blank"> corentin.roy02@laposte.net</a>. Don't hesitate to drop me a line!
-
-Thanks for stopping by, and happy coding!
-
-**I am currently working as freelance web developer, feel free to contact me** 😉
-
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=roy-corentin&rank=S,AAA,AA,SECRET)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=roy-corentin&rank=S,AAA,SECRET)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!---
 roy-corentin/roy-corentin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
