@@ -1,6 +1,6 @@
 👋 Hey there, code wanderer!
 
-👨‍💻 I'm always tinkering and experimenting in the realms of C++, C, Ruby, Crystal, Elixir, Python, etc... I adore unraveling the mysteries of these languages, constantly honing my skills to conjure wonders.
+👨‍💻 I'm always tinkering and experimenting in the realms of C++, C, Ruby, Crystal, Elixir, Python, etc... I adore unraveling the mysteries of these languages, constantly sharpening my skills to conjure wonders.
 
 🧠 Delve into my realm to uncover the secrets of my Emacs configuration and dotfiles. It's a playground of efficiency and power, evolving as I weave new enchantments.
 
