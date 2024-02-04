@@ -8,8 +8,9 @@
 
 P.S. I'm currently brewing magic as a freelance developer. Want to craft something extraordinary? Reach out, and let's make it happen! 😉✨
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=roy-corentin&rank=S,AAA,SECRET)](https://github.com/ryo-ma/github-profile-trophy)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roy-corentin&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roy-corentin&size_weight=0.5&count_weight=0.5&hide=makefile)
 <!---
 roy-corentin/roy-corentin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
