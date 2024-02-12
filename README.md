@@ -8,7 +8,7 @@
 
 P.S. I'm currently brewing magic as a freelance developer. Want to craft something extraordinary? Reach out, and let's make it happen! 😉✨
 
-<div style="display: flex; align-content: center;">
+<div style="display: flex; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=roy-corentin&show_icons=true" alt="Anurag's GitHub stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roy-corentin&size_weight=0.5&count_weight=0.5&hide=makefile" alt="Top Langs">
 </div>
