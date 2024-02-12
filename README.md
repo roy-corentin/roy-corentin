@@ -8,9 +8,11 @@
 
 P.S. I'm currently brewing magic as a freelance developer. Want to craft something extraordinary? Reach out, and let's make it happen! 😉✨
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roy-corentin&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: flex;">
+  <img src="https://github-readme-stats.vercel.app/api?username=roy-corentin&show_icons=true" alt="Anurag's GitHub stats" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roy-corentin&size_weight=0.5&count_weight=0.5&hide=makefile" alt="Top Langs" width="400">
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roy-corentin&size_weight=0.5&count_weight=0.5&hide=makefile)
 <!---
 roy-corentin/roy-corentin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
